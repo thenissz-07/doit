@@ -1,0 +1,7 @@
+{
+  "name": "Linguist Pro: A2 to B1 Accelerator",
+  "description": "A comprehensive 30-day intensive English learning platform designed to bridge the gap between A2 and B1 levels using personalized AI tutoring and structured curriculum.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
